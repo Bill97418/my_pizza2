@@ -1,7 +1,7 @@
 
 from typing import Dict
 
-ALL_INGREDIENTS = ('ham', 'mozzarella', 'parmesan', 'gorgonzola', 'onion', 'olive',
+ALL_INGREDIENTS = ('ham', 'mozzarella', 'parmesan', 'gorgonzola', 'onion', 'olive', 'goat cheese', 
                    'pepper', 'garlic', 'basil', 'mushroom', 'cheddar', 'oregano')
 
 
